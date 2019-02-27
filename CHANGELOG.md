@@ -1,2 +1,3 @@
 #### Version1.0.1  
-- Enable cleartext trafic for surveys
+- fix: cleartext trafic for surveys
+- added: spanish localization
