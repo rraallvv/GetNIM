@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="btn_leaderboard">LÍDERES</string>
+	<string name="btn_start">JUEGA</string>
+	<string name="btn_start2">JUEGA DE NUEVO</string>
+	<string name="btn_exit">SALIR</string>
+	<string name="btn_home">INICIO</string>
+	<string name="btn_sound">SONIDO</string>
+	<string name="btn_mute">SILENCIO</string>
+	<string name="btn_sign_in">Ingresar usando Google+</string>
+	<string name="btn_google_sign_out">Cerrar sesión Google+</string>
+	<string name="score">Puntaje:</string>
+	<string name="high_score">Tu puntaje más alto:</string>
+	<string name="complete">COMPLETA</string>
+	<string name="ask">¿Coincide la tarjeta actual con la anterior?</string>
+	<string name="yes">SI</string>
+	<string name="no">NO</string>
+	<string name="sign_in_failed">No ha podido iniciar sesión. Compruebe la conexión de red e inténtelo de nuevo.</string>
+	<string name="app_misconfigured">La aplicación está mal configurada. Compruebe que el nombre del paquete y el certificado de firma coinciden con el ID de cliente creado en la Consola de Programadores. Además, si la aplicación aún no se ha publicado, compruebe que la cuenta con la que está intentando iniciar sesión aparece como una cuenta de probador. Vea los registros para más información.</string>
+	<string name="license_failed">Falló la comprobación de la licencia.</string>
+	<string name="unknown_error">Error desconocido.</string>
+	<string name="app_name">Secuencia de Cartas</string>
+</resources>

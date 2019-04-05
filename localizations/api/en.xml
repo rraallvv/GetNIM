@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="please_update_app">There is a new version available please update to the latest version</string>
+	<string name="response_1001">Internal server error !</string>
+	<string name="response_1002">Too Many Requests !</string>
+	<string name="response_1003">Invalid password !</string>
+	<string name="response_1004">Sending to your own account is not allowed !</string>
+	<string name="response_1005">User not found !</string>
+	<string name="response_1006">Not enough balance !</string>
+	<string name="response_1007">Invalid credentials !</string>
+	<string name="response_1008">Password updated successfully !</string>
+	<string name="response_1009">Invalid old password !</string>
+	<string name="response_1010">Check mail for instructions</string>
+	<string name="response_1011">Password changed successfully !</string>
+	<string name="response_1012">Time out ! Try again</string>
+	<string name="response_1013">Can\'t remove your account with a balance different than zero !</string>
+	<string name="response_1014">User removed !</string>
+	<string name="response_1015">Email changed !</string>
+	<string name="response_1016">User already registered !</string>
+	<string name="response_1017">User registered successfully !</string>
+	<string name="response_1019">Rewarded !</string>
+	<string name="response_1020">Cooldown timer already was restarted !</string>
+	<string name="response_1021">Invalid request !</string>
+	<string name="response_1022">Service unavailable !</string>
+	<string name="response_1023">Not authenticated !</string>
+	<string name="response_2001">Limit for one day is %s %s !</string>
+	<string name="response_2002">Minimum withdrawal is %s %s !</string>
+	<string name="response_2003">You were rewarded with %s %s !</string>
+	<string name="response_2004">Current prize has increazed to %s %s !</string>
+</resources>

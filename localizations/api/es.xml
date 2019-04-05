@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="please_update_app">Hay una nueva versión disponible por favor actualize a la versión más reciente</string>
+	<string name="response_1001">¡ Error interno en el servidor !</string>
+	<string name="response_1002">¡ Demasiados Intentos !</string>
+	<string name="response_1003">¡ Contraseña no válida !</string>
+	<string name="response_1004">¡ Enviar a tu propia cuenta no está permitido !</string>
+	<string name="response_1005">¡ No se encontro usuario !</string>
+	<string name="response_1006">¡ No tienes suficiente en tu balance !</string>
+	<string name="response_1007">¡ Credenciales no válidas !</string>
+	<string name="response_1008">¡ Contraseña actualizada !</string>
+	<string name="response_1009">¡ Contraseña anterior no válida !</string>
+	<string name="response_1010">¡ Revisa tu correo para ver las instrucciones !</string>
+	<string name="response_1011">¡ Contraseña cambiada !</string>
+	<string name="response_1012">¡ Límite de tiempo ! Intenta de nuevo</string>
+	<string name="response_1013">¡ No se puede eliminar tu cuenta si el balance es diferente de cero !</string>
+	<string name="response_1014">¡ Usuario eliminado !</string>
+	<string name="response_1015">¡ Correo cambiado !</string>
+	<string name="response_1016">¡ Usuario ya está registrado !</string>
+	<string name="response_1017">¡ Usuario ha sido registrado !</string>
+	<string name="response_1019">¡ Recibió recompensa !</string>
+	<string name="response_1020">¡ Tiempo ya fue reiniciado !</string>
+	<string name="response_1021">¡ Solicitud inválida !</string>
+	<string name="response_1022">¡ Servicio no disponible !</string>
+	<string name="response_1023">¡ Sesión de usuario no iniciada !</string>
+	<string name="response_2001">¡ El límite para un día es de %s %s !</string>
+	<string name="response_2002">¡ Retiro mínimo es de %s %s !</string>
+	<string name="response_2003">Fuiste recompensado con %s %s !</string>
+	<string name="response_2004">¡ El premio actual se incremento a %s %s !</string>
+</resources>
