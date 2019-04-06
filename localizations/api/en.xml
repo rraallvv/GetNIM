@@ -23,6 +23,10 @@
 	<string name="response_1021">Invalid request !</string>
 	<string name="response_1022">Service unavailable !</string>
 	<string name="response_1023">Not authenticated !</string>
+	<!--
+	for all response codes in the rang of 2000 the special sequence of characters
+	%s %s appears in the app as a number followed by the unit NIM like so 100.00 NIM
+	-->
 	<string name="response_2001">Limit for one day is %s %s !</string>
 	<string name="response_2002">Minimum withdrawal is %s %s !</string>
 	<string name="response_2003">You were rewarded with %s %s !</string>
