@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="please_update_app">Une nouvelle version est disponible veuillez mettre à jour l'application</string>
+	<string name="response_1001">Erreur interne du serveur !</string>
+	<string name="response_1002">Trop de demandes!</string>
+	<string name="response_1003">Mot de passe incorrect !</string>
+	<string name="response_1004">L'envoi vers votre propre compte n'est pas autorisé!</string>
+	<string name="response_1005">Utilisateur non trouvé !</string>
+	<string name="response_1006">Fonds insuffisants !</string>
+	<string name="response_1007">Identifiants invalides !</string>
+	<string name="response_1008">Mot de passe mis à jour !</string>
+	<string name="response_1009">Ancien mot de passe invalide!</string>
+	<string name="response_1010">Vérifiez votre boîte mail pour obtenir les instructions</string>
+	<string name="response_1011">Password changed successfully !</string>
+	<string name="response_1012">Temps écoulé ! Réessayez</string>
+	<string name="response_1013">Nous ne pouvons supprimer votre compte si votre solde n'est pas égal à zéro</string>
+	<string name="response_1014">Utilisateur supprimé ! !</string>
+	<string name="response_1015">Adresse mail mise à jour !</string>
+	<string name="response_1016">Utilisateur déjà enregistré !</string>
+	<string name="response_1017">Utilisateur enregistré avec succés !</string>
+	<string name="response_1019">Récompensé !</string>
+	<string name="response_1020">Cooldown timer already was restarted !</string>
+	<string name="response_1021">Invalid request !</string>
+	<string name="response_1022">Service indisponible !</string>
+	<string name="response_1023">Vous n'êtes pas connecté !</string>
+	<!--
+	for all response codes in the rang of 2000 the special sequence of characters
+	%s %s appears in the app as a number followed by the unit NIM like so 100.00 NIM
+	-->
+	<string name="response_2001">La limit par jour est de %s %s !</string>
+	<string name="response_2002">Le montant minimal de retrait est de %s %s !</string>
+	<string name="response_2003">Vous avez obtenu %s %s de récompense !</string>
+	<string name="response_2004">La récompense est maintenant de %s %s !</string>
+</resources>
